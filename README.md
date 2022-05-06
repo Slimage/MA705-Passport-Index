@@ -7,6 +7,8 @@ Users can can select a country from the drop down to get the passport mobility s
 
 
 ## Dashboard Description
+Select a country from the dropdown list to see the mobility score
+
 ## Data Sources
 The  csv files were located from github. Below is a description, from that github, describing the datasets
 
