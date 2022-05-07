@@ -10,7 +10,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_csv(r"C:\Users\nubia\OneDrive\Documents\MSBA Courses\MA705.HB1.SP22.Cherveny.Data Science\Final Project\passport-index-matrix - cleaned.csv",encoding='utf-8')
+df = pd.read_csv('https://raw.githubusercontent.com/Slimage/MA705-Passport-Index/main/passport-index-matrix%20-%20cleaned.csv')
 
 stylesheet = ['https://codepen.io/chriddyp/pen/bWLwgP.css']
 
